@@ -26,7 +26,7 @@ roslaunch darknet_ros yolo_v3.launch> output.txt
 
 ![alt text](https://github.com/MuberraAydin/GezginRobotProje/blob/main/Pictures/Results.png)
 
- Terminalde YOLO’yu çalıştırdıktan sonra robotun görebildiği nesneler txt dosyasına yazdırılmıştır. Nesnelerin Koordinatı bulunmamıştır. Aynı nesne tekrar edebilmektedir. Tespit edilen nesneler .txt dosyasına yazdırılmıştır.
+ Terminalde YOLO’yu çalıştırdıktan sonra robotun görebildiği nesneler txt dosyasına yazdırılmıştır. Nesnelerin Koordinatı bulunmamıştır. Aynı nesne tekrar edebilmektedir.
 
 
 
