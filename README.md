@@ -24,7 +24,7 @@ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 roslaunch darknet_ros yolo_v3.launch> output.txt
 #YOLO’yu çalıştırıyoruz ve tespit edilen nesneler txt dosyasına yazdırıyoruz.
 
-
+![alt text](https://github.com/MuberraAydin/GezginRobotProje/blob/main/Pictures/Results.png)
 
  Terminalde YOLO’yu çalıştırdıktan sonra robotun görebildiği nesneler txt dosyasına yazdırılmıştır. Nesnelerin Koordinatı bulunmamıştır. Aynı nesne tekrar edebilmektedir. Tespit edilen nesneler .txt dosyasına yazdırılmıştır.
 
